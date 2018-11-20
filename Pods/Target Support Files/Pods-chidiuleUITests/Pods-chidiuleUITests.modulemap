@@ -1,0 +1,6 @@
+framework module Pods_chidiuleUITests {
+  umbrella header "Pods-chidiuleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
